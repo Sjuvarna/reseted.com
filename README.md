@@ -1,1 +1,1 @@
-# reseted.com
+print("hu")
